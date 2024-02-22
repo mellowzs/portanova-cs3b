@@ -6,4 +6,4 @@ Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
 
 Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
 
-[My Published Website ](https://portanova-cs3b-ve9uhsqoqi.streamlit.app/)
+[My published app](https://portanova-cs3b-ve9uhsqoqi.streamlit.app/)
