@@ -26,6 +26,7 @@ def run():
 
     st.write("# Welcome to Streamlit! 👋")
     st.write("By: MEL CHRISTOPHER B. PORTANOVA")
+    st.write("Section: BSCS-3B")
     st.sidebar.success("Select a demo above.")
 
     st.markdown(
